@@ -1,1 +1,3 @@
 ## .github
+
+Memoiren einer Schnecke
